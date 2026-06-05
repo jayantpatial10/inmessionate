@@ -1,0 +1,5 @@
+John,50000
+Jane,60000
+Smith,45000
+Rahul,70000
+Amit,55000

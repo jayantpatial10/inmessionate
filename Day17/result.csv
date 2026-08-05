@@ -1,0 +1,4 @@
+EmployeeID,ValidationType,ExpectedSalary,ActualSalary
+102,Salary Mismatch,45000.0,47000.0
+105,Missing in Actual,40000.0,
+106,Missing in Expected,,42000.0
